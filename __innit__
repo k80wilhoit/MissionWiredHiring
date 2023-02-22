@@ -1,0 +1,8 @@
+import os
+from flask_migrate import Migrate
+from .models import db
+
+app = Flask(__name__, static_folder="../react-app/build", static_url_path="/")
+
+db.init_app(app)
+Migrate(app, db)
