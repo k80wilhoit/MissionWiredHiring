@@ -10,5 +10,6 @@
 
 ## Additional Hiring Documents
 
-- [Analytics Results](https://docs.google.com/spreadsheets/d/19_JncE49Cjr5kCq5O1i6CizN4kW2yYuTT0rBSvGzhbY/edit)
+- [Analytics Spreadsheet](https://docs.google.com/spreadsheets/d/19_JncE49Cjr5kCq5O1i6CizN4kW2yYuTT0rBSvGzhbY/edit)
+- [Analytics Results](https://docs.google.com/document/d/1wjD1udtg0xDaXwOYAA166zqbp_ZgJJ8O/edit)
 - [Client Comms](https://docs.google.com/document/d/1ZkiSxhoT4Jex3BpaYM_W_wYssKtqoGRl/edit)
