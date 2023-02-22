@@ -5,8 +5,8 @@
 
 ## How To Get Started!
 
-- open a terminal and type 'pip3 install SQLAlchemy' and complete any prompts
-- then, type 'pip3 install flask' and complete any prompts
+- open a terminal and type 'pip3 install SQLAlchemy' and complete any given prompts to download
+- then, type 'pip3 install flask' and complete any given prompts to download
 
 ## Additional Hiring Documents
 
