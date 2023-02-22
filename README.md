@@ -1,5 +1,5 @@
-
-## Schema
+# Welcome!
+## Schema Breakdown
 ![Screen Shot 2023-02-22 at 3 25 13 PM](https://user-images.githubusercontent.com/111386699/220750727-e9277d71-b954-42ff-8412-998b791047b3.png)
 
 
