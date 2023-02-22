@@ -1,0 +1,18 @@
+from .db import db
+
+
+class People(db.Model)
+    email = db.Column(db.String)
+    code = db.Column(db.String)
+    is_unsub = db.Column(db.Boolean)
+    created_dt = db.Column(db.Datetime)
+    updated_dt = db.Column(db.Datetime)
+
+def to_dict(self)
+        return {
+            'email': self.email,
+            'code': self.code,
+            'is_unsub': self.is_unsub,
+            'created_dt': self.created_dt,
+            'updated_dt': self.updated_dt,
+        }
